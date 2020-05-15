@@ -1,0 +1,65 @@
+div.jumbotron{
+    text-align: center;
+    background: none;
+}
+
+img{
+    height: auto;
+    max-width: 100%;
+}
+
+.carousel{
+    margin: auto;
+}
+
+.sectionDark{
+    background-color: #cccccc;
+    padding: 2em;
+    text-align: center;
+}
+
+img.tt{
+    max-width: 50%;
+}
+
+img.sk{
+    max-width: 50%;
+}
+
+div.coolButton{
+    margin-top: 20px;
+}
+
+.coolbtn{
+    background-color: red;
+    color: white;
+}
+
+h5.modal-title{
+    margin-left: 30%;
+}
+
+div.iimg{
+    max-width: 30%;
+}
+
+form,  input{
+    text-align: center;
+}
+
+img[src="d.JPG"],img[src="e.JPG"],img[src="f.JPG"]{
+    width: 50%;
+    display: block;
+    margin: auto;
+    padding: 2em 2em 1em 2em;
+}
+
+.btnCenter{
+/*
+    display: block;
+    margin: auto;
+*/
+    margin-left: 30%;
+    width: 40%;
+    text-align: center;
+}
